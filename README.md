@@ -1,3 +1,5 @@
+<img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/ethereum/info/logo.png" height="100px"> <img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/polygon/info/logo.png" height="100px"> <img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/smartchain/info/logo.png" height="100px"><img src="https://cdn.puddy.club/tinywagfaster.png" height="300px">
+
 # Brony - Crypto Scammers List
 
 This is a collaborative volunteer project. The purpose of this repository is to create a blacklist of scammer projects on the brony community. All websites have been reviewed by someone who has checked the source code and the status of the contract.
