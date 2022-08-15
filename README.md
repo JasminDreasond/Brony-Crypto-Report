@@ -17,6 +17,16 @@ If the source code is hidden, it's already my first red flag that the project is
 
 If the code is visible, my next step is to use my programming knowledge of the solidity language to check what each function in the contract actually does. If suspicious code is found, it will be blacklisted by the website.
 
+### NFT Scammers
 If the smart contract is an NFT, both the source code will be checked and it will be checked on which websites this NFT is present.
 
 If the NFT have a lot of NFT websites that have banned the NFT contract address from being traded, this also raises the suspicion of being a scammer.
+
+### Token Scammers
+If the smart contract is a token. All behavior of this token will be verified. The highest high suspicions of a token being a scam is if it has a massive mint distribution to several different wallets.
+
+If the token contract has suspicious scripts when the user tries to use this particular token, it will also get blacklisted.
+
+If the token is very unknown and has usage limiting mechanisms, it will be blacklisted as a medium scammer probability risk token.
+
+If the token has detected an extremely volatile settlement amount than usual as price manipulation, this will also add it to the blacklist.
