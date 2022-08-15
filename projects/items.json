@@ -1,3 +1,6 @@
 [
-    "littleponies.xyz"
+    {
+        "domain": "littleponies.xyz",
+        "level": 3
+    }
 ]

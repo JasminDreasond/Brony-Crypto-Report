@@ -1,0 +1,11 @@
+# Projects List
+
+Here are all the results reports of analysis of websites that entered the blacklist. If you want to use JSON file in some application of yours. Feel free to download it.
+
+All websites have danger level.
+
+#### 1 - low
+
+#### 2 - medium
+
+#### 3 - high
