@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://cdn.puddy.club/tinywagfaster.png" height="300px">
+<img src="https://github.com/JasminDreasond/Brony-Crypto-Scammers/blob/main/img/68747470733a2f2f63646e2e70756464792e636c75622f74696e797761676661737465722e706e67.png?raw=true" height="300px">
 </p>
 
 <p align="center">
-<img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/ethereum/info/logo.png" height="100px"> <img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/polygon/info/logo.png" height="100px"> <img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/smartchain/info/logo.png" height="100px">
+<img src="https://github.com/JasminDreasond/Brony-Crypto-Scammers/blob/main/img/68747470733a2f2f63646e2e70756464792e636c75622f696d672f63727970746f69636f6e732f747275737477616c6c65742f626c6f636b636861696e732f657468657265756d2f696e666f2f6c6f676f2e706e67.png?raw=true" height="100px"> <img src="https://github.com/JasminDreasond/Brony-Crypto-Scammers/blob/main/img/68747470733a2f2f63646e2e70756464792e636c75622f696d672f63727970746f69636f6e732f747275737477616c6c65742f626c6f636b636861696e732f706f6c79676f6e2f696e666f2f6c6f676f2e706e67.png?raw=true" height="100px"> <img src="https://github.com/JasminDreasond/Brony-Crypto-Scammers/blob/main/img/68747470733a2f2f63646e2e70756464792e636c75622f696d672f63727970746f69636f6e732f747275737477616c6c65742f626c6f636b636861696e732f736d617274636861696e2f696e666f2f6c6f676f2e706e67.png?raw=true" height="100px">
 </p>
 
 # Brony - Crypto Scammers List
