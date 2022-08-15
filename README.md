@@ -51,6 +51,13 @@ https://dappbay.bnbchain.org/risk-scanner
 
 <hr/>
 
+<p align="center">
+<img src="https://github.com/JasminDreasond/Brony-Crypto-Scammers/blob/main/img/d8cuqhm-af85933d-4ad4-4bfb-aec6-8087bd0a6b50.png?raw=true" height="200px">
+</p>
+<p align="center">
+<a href="https://www.deviantart.com/falcotte/art/Mail-Derpy-Hooves-Yosemite-Ponified-Icon-505318810">Image made by Falcotte</a>
+</p>
+
 ### Contact
 
 tiny@puddy.club
