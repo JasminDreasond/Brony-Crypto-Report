@@ -30,3 +30,13 @@ If the token contract has suspicious scripts when the user tries to use this par
 If the token is very unknown and has usage limiting mechanisms, it will be blacklisted as a medium scammer probability risk token.
 
 If the token has detected an extremely volatile settlement amount than usual as price manipulation, this will also add it to the blacklist.
+
+<hr/>
+
+### Automatic contract validators.
+
+Some blockchains are already developing artificial intelligence to detect scammers within the blockchain. 
+
+At the moment the only blockchain that I have this type of application for is the BNB Blockchain. (Because it's the blockchain I use the most)
+
+https://dappbay.bnbchain.org/risk-scanner
