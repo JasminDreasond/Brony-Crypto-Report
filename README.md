@@ -58,10 +58,20 @@ https://dappbay.bnbchain.org/risk-scanner
 <a href="https://www.deviantart.com/falcotte/art/Mail-Derpy-Hooves-Yosemite-Ponified-Icon-505318810">Image made by Falcotte</a>
 </p>
 
-### Contact
+<p align="center">
+<strong>
+Contact
+</strong>
+</p>
 
+<p align="center">
 tiny@puddy.club
+</p>
 
+<p align="center">
 Discord Server - https://discord.gg/TgHdvJd
+</p>
 
+<p align="center">
 Twitter - https://twitter.com/JasminDreasond
+</p>
