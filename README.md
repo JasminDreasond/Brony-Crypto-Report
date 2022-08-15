@@ -40,3 +40,13 @@ Some blockchains are already developing artificial intelligence to detect scamme
 At the moment the only blockchain that I have this type of application for is the BNB Blockchain. (Because it's the blockchain I use the most)
 
 https://dappbay.bnbchain.org/risk-scanner
+
+<hr/>
+
+### Contact
+
+tiny@puddy.club
+
+Discord Server - https://discord.gg/TgHdvJd
+
+Twitter - https://twitter.com/JasminDreasond
