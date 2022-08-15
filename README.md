@@ -1,4 +1,8 @@
-<img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/ethereum/info/logo.png" height="100px"> <img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/polygon/info/logo.png" height="100px"> <img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/smartchain/info/logo.png" height="100px"><img src="https://cdn.puddy.club/tinywagfaster.png" height="300px">
+<center>
+<img src="https://cdn.puddy.club/tinywagfaster.png" height="300px">
+
+<img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/ethereum/info/logo.png" height="100px"> <img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/polygon/info/logo.png" height="100px"> <img src="https://cdn.puddy.club/img/cryptoicons/trustwallet/blockchains/smartchain/info/logo.png" height="100px">
+</center>
 
 # Brony - Crypto Scammers List
 
