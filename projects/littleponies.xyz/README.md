@@ -6,7 +6,7 @@ https://etherscan.io/address/0x93589ca4d8581950fbdbf8a4fe262e4a37a64331
 
 #### Website
 
-The website is extremely simple. It does not have any extra functionality. For an attempt to create an NFT website, this page is extremely suspicious.
+The website is extremely simple. It does not have any extra functionality. For an attempt to create an NFT website, this page is extremely suspicious. The website tries to connect to your crypto wallet even before you do anything else.
 
 The website source code is also encrypting the page's javascript, making any attempt to debug the source code difficult for security analysis.
 
