@@ -12,6 +12,14 @@ The website source code is also encrypting the page's javascript, making any att
 
 The website creator seems to be doing everything to hide the source code of both the website and the NFT smart contract.
 
+#### Has the developer identified himself?
+
+NO! ⚠️
+
+#### Has the developer published the NFT White Paper?
+
+NO! ⚠️
+
 #### The Smart Contract is Verified Contract?
 
 NO! ⚠️
