@@ -17,7 +17,7 @@ If you are a smart contract programmer, feel free to help keep the project up to
 
 ## How is the validation of contracts done?
 
-First, the website source code is checked. I need to first validate which web3 connection API is being used so I can identify which contract is being executed.
+First, the website source code is checked. I need to first validate which web3 connection API is being used so I can identify which contract is being executed. It is also extremely important that every blockchain project that runs smart contracts has some White Paper published. The White Paper is what explains what a certain project will be within a blockchain.
 
 After the contract is discovered, I go to the blockchain explorer of the crypto network identified. Arriving at the contract, I first check that the contract is validated and the source code is decompiled.
 
@@ -26,11 +26,13 @@ If the source code is hidden, it's already my first red flag that the project is
 If the code is visible, my next step is to use my programming knowledge of the solidity language to check what each function in the contract actually does. If suspicious code is found, it will be blacklisted by the website.
 
 ### NFT Scammers
+
 If the smart contract is an NFT, both the source code will be checked and it will be checked on which websites this NFT is present.
 
 If the NFT have a lot of NFT websites that have banned the NFT contract address from being traded, this also raises the suspicion of being a scammer.
 
 ### Token Scammers
+
 If the smart contract is a token. All behavior of this token will be verified. The highest high suspicions of a token being a scam is if it has a massive mint distribution to several different wallets.
 
 If the token contract has suspicious scripts when the user tries to use this particular token, it will also get blacklisted.
@@ -43,7 +45,7 @@ If the token has detected an extremely volatile settlement amount than usual as 
 
 ### Automatic contract validators.
 
-Some blockchains are already developing artificial intelligence to detect scammers within the blockchain. 
+Some blockchains are already developing artificial intelligence to detect scammers within the blockchain.
 
 At the moment the only blockchain that I have this type of application for is the BNB Blockchain. (Because it's the blockchain I use the most)
 
