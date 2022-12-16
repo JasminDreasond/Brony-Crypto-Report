@@ -6,9 +6,9 @@
 <img src="https://github.com/JasminDreasond/Brony-Crypto-Scammers/blob/main/img/68747470733a2f2f63646e2e70756464792e636c75622f696d672f63727970746f69636f6e732f747275737477616c6c65742f626c6f636b636861696e732f657468657265756d2f696e666f2f6c6f676f2e706e67.png?raw=true" height="100px"> <img src="https://github.com/JasminDreasond/Brony-Crypto-Scammers/blob/main/img/68747470733a2f2f63646e2e70756464792e636c75622f696d672f63727970746f69636f6e732f747275737477616c6c65742f626c6f636b636861696e732f706f6c79676f6e2f696e666f2f6c6f676f2e706e67.png?raw=true" height="100px"> <img src="https://github.com/JasminDreasond/Brony-Crypto-Scammers/blob/main/img/68747470733a2f2f63646e2e70756464792e636c75622f696d672f63727970746f69636f6e732f747275737477616c6c65742f626c6f636b636861696e732f736d617274636861696e2f696e666f2f6c6f676f2e706e67.png?raw=true" height="100px">
 </p>
 
-# Brony - Crypto Scammers List
+# Brony - Crypto Report List
 
-This is a collaborative volunteer project. The purpose of this repository is to create a blacklist of scammer projects on the brony community. All websites have been reviewed by someone who has checked the source code and the status of the contract.
+This is a collaborative volunteer project. The purpose of this repository is to create a blacklist of possible scammers projects on the brony community. All websites have been reviewed by someone who has checked the source code and the status of the contract.
 
 If you suspect any websites, feel free to check them here. If you would like to report any website, you can contact me.
 If you are a smart contract programmer, feel free to help keep the project up to date via pull requests.
