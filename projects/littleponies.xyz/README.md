@@ -35,3 +35,5 @@ NO! ⛔⛔⛔⛔⛔
 #### Final Result
 
 Extremely high scammer probability level 🔥🔥🔥🔥
+
+Edit 12/16/2022 (MM/DD/YYYY): The website has been removed.
