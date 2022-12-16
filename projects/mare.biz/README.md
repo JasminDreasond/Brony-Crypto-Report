@@ -24,7 +24,7 @@ The owner of the token's logo icon is anonymous. I cannot know the real reasons 
 
 The project is in production, but has no plans as to why it exists. It has a website already stating that you can buy the tokens, but says the project has no plans to use it yet.
 
-Mysteriously, this user's wallet has the NFT derpibooru.eth registered, pointing the domain to his own wallet. (demonstrating that this person wants to receive crypto when the user enters this name.) But the user doesn't seem to show that this user belongs to derpibooru.org team.
+Mysteriously, this user's wallet has the NFT derpibooru.eth registered, pointing the domain to his own wallet. (demonstrating that this person wants to receive crypto when the user enters this name.) But the user doesn't seem to show that this user belongs to the derpibooru.org team.
 
 
 
