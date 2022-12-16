@@ -33,6 +33,8 @@ The project is in production, but has no plans as to why it exists. It has a web
 
 Mysteriously, this user's wallet has the NFT derpibooru.eth registered, pointing the domain to his own wallet. (demonstrating that this person wants to receive crypto when the user enters this name.) But the user doesn't seem to show that this user belongs to the derpibooru.org team.
 
+https://opensea.io/assets/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/82070933839193082600760175411217577403406744495706694114306341865209691897555
+
 
 
 #### Has the developer identified himself?
