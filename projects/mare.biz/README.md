@@ -14,9 +14,9 @@ The Token is using a Proxy system and at the same time it can change its name th
 
 The Token can also easily modify its number of decimals using setDecimals.
 
-There is a mysterious empty wallet with 45% of the tokens. Maybe it's some wallet planning to prevent websites from detecting that almost all tokens are in the token owner's wallet.
+(POLYGON) There is a mysterious empty wallet with 45% of the tokens. Maybe it's some wallet planning to prevent websites from detecting that almost all tokens are in the token owner's wallet.
 
-The second largest holder belongs to the creator of the token. The project owner can at some point give up on the project and completely liquidate all users. 
+(POLYGON) The second largest holder belongs to the creator of the token. The project owner can at some point give up on the project and completely liquidate all users. 
 
 I couldn't find contact details of possible friends of the Token owner who are participating in the project. If you find them, please contact me.
 
