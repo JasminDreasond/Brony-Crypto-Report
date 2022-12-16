@@ -4,6 +4,8 @@
 
 https://etherscan.io/token/0xc5a1973e1f736e2ad991573f3649f4f4a44c3028
 
+https://polygonscan.com/token/0xb362a97ad06c907c4b575d3503fb9dc474498480
+
 #### Website
 
 Contract Proxy URL: https://polygonscan.com/address/0x26964a8d4b232b808b13a6500e35f532ed3527d1#code
