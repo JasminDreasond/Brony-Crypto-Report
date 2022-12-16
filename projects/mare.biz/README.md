@@ -20,6 +20,9 @@ The Token can also easily modify its number of decimals using setDecimals.
 
 (ETHEREUM) I couldn't understand why the holders of this token are users with a lot of money and have been paralyzed for a long time. I can only identify one active wallet, but I still find this kind of distribution strange.
 
+(ETHEREUM)
+Maybe this is the first time the user has created the token. Which might explain the huge volume of tokens at the NULL address. But it could also be some attempt to hide token distribution stats.
+
 I couldn't find contact details of possible friends of the Token owner who are participating in the project. If you find them, please contact me.
 
 The owner of the token's logo icon is anonymous. I cannot know the real reasons for this. So that opens the door to many theories of the real reason for this.
