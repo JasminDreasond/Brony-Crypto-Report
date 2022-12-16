@@ -54,3 +54,5 @@ Questionable project. This page will only be removed if I have better informatio
 
 My other recommendation is to avoid maintaining functions that modify the token's identity. 
 This type of resource can be suspicious of the user trying to make some identity change without warning. If the creator is using a contract proxy, I'm sure the creator can fix that.
+
+This project could be considered suspicion level 1. But due to reports about this user's NFTs, I'm upgrading to level 2.
