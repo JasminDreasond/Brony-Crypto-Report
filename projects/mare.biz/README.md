@@ -25,25 +25,17 @@ Maybe this is the first time the user has created the token. Which might explain
 
 (POLYGON) I found a good number of empty random wallets with this token. The distribution of this token is very weird. I also found token distribution behaviors similar to those found on the ethereum blockchain.
 
-I couldn't find contact details of possible friends of the Token owner who are participating in the project. If you find them, please contact me.
-
-The owner of the token's logo icon is anonymous. I cannot know the real reasons for this. So that opens the door to many theories of the real reason for this.
-
-The project is in production, but has no plans as to why it exists. It has a website already stating that you can buy the tokens, but says the project has no plans to use it yet.
-
-Mysteriously, this user's wallet has the NFT derpibooru.eth registered, pointing the domain to his own wallet. (demonstrating that this person wants to receive crypto when the user enters this name.) But the user doesn't seem to show that this user belongs to the derpibooru.org team.
+Mysteriously, this user's wallet has the NFT derpibooru.eth registered, pointing the domain to his own wallet. 
 
 https://opensea.io/assets/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/82070933839193082600760175411217577403406744495706694114306341865209691897555
-
-
 
 #### Has the developer identified himself?
 
 Yes
 
-#### Has the developer published the Token White Paper?
+#### Has the developer published the Token White Paper or token info?
 
-NO! ⚠️
+YES
 
 #### The Smart Contract is Verified Contract?
 
@@ -59,9 +51,9 @@ Yes
 
 #### Final Result
 
-Questionable project. This page will only be removed if I have better information proving it to be a trusted token. My recommendation is to publish token projects only when the project has a more detailed structure about project development. I am open to any attempt to contact the project owner.
+The token's author has provided details on the website homepage saying that the token is a meme coin:
+
+    MARE is an extremely risky meme coin and its value could fall at any time; don't invest any money in MARE that you aren't willing to lose.
 
 My other recommendation is to avoid maintaining functions that modify the token's identity. 
-This type of resource can be suspicious of the user trying to make some identity change without warning. If the creator is using a contract proxy, I'm sure the creator can fix that.
-
-This project could be considered suspicion level 1. But due to reports about this user's NFTs, I'm upgrading to level 2.
+This type of resource can be suspicious of the user trying to make some identity change without warning.
