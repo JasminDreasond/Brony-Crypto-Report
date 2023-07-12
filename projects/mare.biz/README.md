@@ -10,15 +10,9 @@ https://polygonscan.com/token/0xb362a97ad06c907c4b575d3503fb9dc474498480
 
 Contract Proxy URL: https://polygonscan.com/address/0x26964a8d4b232b808b13a6500e35f532ed3527d1#code
 
-The Token is using a Proxy system and at the same time it can change its name through a function called setName. Token can also change symbol identity simply using another function called setSymbol
-
-The Token can also easily modify its number of decimals using setDecimals.
-
 (POLYGON) There is a mysterious empty wallet with 45% of the tokens. Maybe it's some wallet planning to prevent websites from detecting that almost all tokens are in the token owner's wallet.
 
 (POLYGON) The second largest holder belongs to the creator of the token. The project owner can at some point give up on the project and completely liquidate all users. 
-
-(ETHEREUM) I couldn't understand why the holders of this token are users with a lot of money and have been paralyzed for a long time. I can only identify one active wallet, but I still find this kind of distribution strange.
 
 (ETHEREUM)
 Maybe this is the first time the user has created the token. Which might explain the huge volume of tokens at the NULL address. But it could also be some attempt to hide token distribution stats.
@@ -54,6 +48,3 @@ Yes
 The token's author has provided details on the website homepage saying that the token is a meme coin:
 
     MARE is an extremely risky meme coin and its value could fall at any time; don't invest any money in MARE that you aren't willing to lose.
-
-My other recommendation is to avoid maintaining functions that modify the token's identity. 
-This type of resource can be suspicious of the user trying to make some identity change without warning.
